@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #d3d8d4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.sisi-atas {
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    text-align: left;
+}
+
+.Tombol-order {
+    text-align: right;
+}
+
+.TABEL {
+    text-align: center;
+}
